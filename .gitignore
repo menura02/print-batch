@@ -1,0 +1,12 @@
+bin/
+obj/
+dist/
+test-output/
+tools/*.zip
+__pycache__/
+tools/SumatraPDF-settings.txt
+tools/*.exe
+tools/sumatrapdfcache/
+tests/fixtures/sample.doc
+tests/fixtures/sample.xls
+tests/fixtures/sample.ppt
